@@ -21,9 +21,7 @@ Para rodar o n8n localmente para testes e desenvolvimento, siga os passos abaixo
 
 Observação: É possivel trabalhar de diversas formas, como a instância remota como o Ngrok, com o n8n cloud e usando a VPS Hostinger.
 
----
-
-Abaixo, detalho o progresso das competências técnicas que estou dominando nesta formação:
+## Detalhamento do progresso das competências técnicas que estou dominando nesta formação:
 
 ### Core & Infraestrutura
 - [x] **Fundamentos n8n** Domínio de Nodes, Gatilhos e Estruturas de Dados.
