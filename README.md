@@ -50,6 +50,3 @@ As soluções desenvolvidas neste repositório visam resolver dores reais, como:
 * **Automação de Atendimento:** Agentes de IA que consultam bases de conhecimento e respondem no WhatsApp.
 * **Operações de Dados:** Sincronização inteligente entre CRMs e bancos de dados transacionais.
 * **Inteligência de Vendas:** Enriquecimento de leads e qualificação automática via Webhooks.
-
----
-**Desenvolvido com foco em escalabilidade e eficiência técnica.**
