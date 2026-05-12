@@ -3,3 +3,4 @@ schema - saber as colunas e tipos de dados dela
 table - tabela é melhor para visualizar em formato tabular
 
 json - para copiar o código e colar em outro lugar
+
