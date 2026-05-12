@@ -1,0 +1,41 @@
+É uma ferramenta poderosa que aciona fluxos de trabalho em momentos específicos. Ele responde a eventos do sistema com atualizações e ativações.
+
+**Ferramenta de automação**
+
+- Dispara quando o fluxo de trabalho atual é atualizado ou ativado.
+
+**Monitor de sistema**
+
+- Aciona quando a instância n8n inicia ou reinicia.
+
+**Sistema de notificação**
+
+- Pode ser usado para enviar alertas quando estes eventos ocorrem.
+
+Parâmetros de nó
+
+**Eventos**
+
+- O único parâmetro de nó identifica quais eventos devem acioná-los.
+
+**Seleção múltipla**
+
+- Você pode selecionar um ou mais eventos para monitorar simultaneamente.
+
+**Configurações simples**
+
+- Interface intuitiva facilita a configuração rápida de gatilhos.
+
+Tipos de eventos
+
+**Fluxo de trabalho atualizado**
+
+- Aciona quando este fluxo de trabalho é atualizado.
+
+**Instância iniciada**
+
+- Aciona quando a instância n8n inicia ou reinicia.
+
+**Fluxo de Trabalho ativado**
+
+- Aciona quando este fluxo de trabalho é ativado.
