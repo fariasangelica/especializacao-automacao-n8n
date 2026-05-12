@@ -33,5 +33,3 @@ Operações que representam tarefas específicas dentro de um fluxo de trabalho,
 - Processam e transformam dados
 - Enviam informações para outros sistemas
 - Executam operações lógicas
-
-![image.png](attachment:865a8128-5aca-497f-a962-e1321450aa70:image.png)
